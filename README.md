@@ -6,7 +6,7 @@
 - **Email:** thenngk6@gmail.com
 - **GitHub Username:** ThanhDZsudo
 - **Đường dẫn nộp bài dự kiến:** `homework/session_04/ex3/`
-- **GitHub Repository URL:** `git@github.com:ThanhDZsudo/IT209_Devops.git`
+- **GitHub Repository URL:** `git@github.com:ThanhDZsudo/IT209_Session04_Ex3.git`
 
 ---
 
@@ -68,7 +68,7 @@ Hi ThanhDZsudo! You've successfully authenticated, but GitHub does not provide s
 Thiết lập đường dẫn remote origin bằng giao thức SSH:
 ```bash
 # Thêm remote origin qua giao thức SSH
-git remote add origin git@github.com:ThanhDZsudo/IT209_Devops.git
+git remote add origin git@github.com:ThanhDZsudo/IT209_Session04_Ex3.git
 
 # Kiểm tra đường dẫn remote
 git remote -v
@@ -76,8 +76,8 @@ git remote -v
 
 **Kết quả kiểm tra `git remote -v`:**
 ```text
-origin  git@github.com:ThanhDZsudo/IT209_Devops.git (fetch)
-origin  git@github.com:ThanhDZsudo/IT209_Devops.git (push)
+origin  git@github.com:ThanhDZsudo/IT209_Session04_Ex3.git (fetch)
+origin  git@github.com:ThanhDZsudo/IT209_Session04_Ex3.git (push)
 ```
 
 ---
@@ -95,7 +95,7 @@ Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Writing objects: 100% (3/3), done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:ThanhDZsudo/IT209_Devops.git
+To github.com:ThanhDZsudo/IT209_Session04_Ex3.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 ```
@@ -111,8 +111,8 @@ Hi ThanhDZsudo! You've successfully authenticated, but GitHub does not provide s
 
 ### 3.2. Kết quả kiểm tra Remote URL (`git remote -v`)
 ```text
-origin  git@github.com:ThanhDZsudo/IT209_Devops.git (fetch)
-origin  git@github.com:ThanhDZsudo/IT209_Devops.git (push)
+origin  git@github.com:ThanhDZsudo/IT209_Session04_Ex3.git (fetch)
+origin  git@github.com:ThanhDZsudo/IT209_Session04_Ex3.git (push)
 ```
 
 ### 3.3. Hình ảnh chụp màn hình minh chứng:
